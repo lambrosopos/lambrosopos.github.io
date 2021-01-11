@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Post Index Page"
+title: "Welcome to the Blog!"
 date: 2021-01-11 21:00:00 +0900
+categories: General
 ---
 
 Welcome to my blog!
