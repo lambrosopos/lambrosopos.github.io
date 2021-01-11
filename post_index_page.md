@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Post Index Page
+
+permalink: /pip/
 ---
 
 List of the posts
