@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Virtual Environment
-categories: tech
+categories: Tech
 ---
 
 # 소개
