@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello...!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Welcome to my jekyll blog.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog is to record my thoughts and experiences in life.
 
+There are 3 categories that I will generally focus on:
+ - general: topics that are related to maybe... life?
+ - tech: topics that I've used and what I think about them... (they will not be manuals or guides)
+ - random: topics that just happen to be in my head at the time of writing 
 
-[jekyll-organization]: https://github.com/jekyll
+ Yeah... well, I am interested in Data Engineering, Backend Development, and Networks
