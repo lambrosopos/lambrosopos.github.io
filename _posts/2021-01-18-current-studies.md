@@ -2,7 +2,7 @@
 layout: post
 date: 2021-01-18
 title: Current Studies
-categories: general
+categories: General
 ---
 
 ## Hi...
