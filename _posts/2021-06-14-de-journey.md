@@ -2,7 +2,7 @@
 layout: post
 title: DE Journey
 date: 2021-06-09
-categories: random, tech
+categories: random tech
 ---
 
 ## 데이터 엔지니어링의 길에서...
