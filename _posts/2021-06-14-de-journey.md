@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DE Journey
-date: 2021-06-09
+date: 2021-06-14
 categories: random tech
 ---
 
