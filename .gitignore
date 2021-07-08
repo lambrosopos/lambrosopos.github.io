@@ -4,3 +4,10 @@ _site
 .jekyll-metadata
 vendor
 *.DS_Store
+tmp
+*.rdb
+.env
+.sass-cache
+coverage
+_drafts
+.git
