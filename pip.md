@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Post Index Page"
 date: 2021-01-11 21:00:00 +0900
 permalink: /pip/
